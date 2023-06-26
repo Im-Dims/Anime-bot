@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/7f5dde08eb74de28bfac4.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Anime - Md V4</h1>
+<h1 align="center">Anime - Md</h1>
 
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282113847022) 
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281398274790) 
@@ -14,8 +14,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Aldi-Ganz-Offc/YushinoMdV4
-$ cd YushinoMdV4
+$ git clone https://github.com/Im-Dims/Anime-bot
+$ cd Anime-bot
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/Aldi-Ganz-Offc/YushinoMdV4#if-npm-install-failed--try--using-yarn-instead-of-npm)
