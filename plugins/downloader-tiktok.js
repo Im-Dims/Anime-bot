@@ -1,4 +1,4 @@
-import axios from "axios"
+/*import axios from "axios"
 import fetch from "node-fetch"
 import cheerio from "cheerio"
 import got from "got"
@@ -74,6 +74,7 @@ const readMore = more.repeat(4001)
 
 //@xct007/tiktok-scraper
 
+/*
 async function Tiktokdl(url) {
 //async function tiktokdl(url) {
     try {
@@ -158,4 +159,4 @@ async function Tiktokdl(url) {
     } catch (e) {
         return { status: false, result: e }
     }
-}
+}*/
