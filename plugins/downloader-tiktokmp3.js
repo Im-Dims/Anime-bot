@@ -1,4 +1,4 @@
-import fetch from 'node-fetch'
+/*import fetch from 'node-fetch'
 import axios from 'axios'
 let handler = async (m, { conn, args, command, usedPrefix }) => {
   if (!args[0]) throw `Linknya??`
@@ -29,4 +29,4 @@ thumbnail: await (await fetch(json.pp)).buffer(),
 handler.help = ['tiktokmp3'].map(v => v + ' <url>')
 handler.tags = ['downloader']
 handler.command = /^(tikaudio|tiktokmp3|ttdlmp3|ttmp3|tiktokdlmp3|gettt)$/i
-export default handler
+export default handler*/
