@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/7f5dde08eb74de28bfac4.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="./media/hehe.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Anime - Md</h1>
 
@@ -57,30 +57,13 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Im-Dims/Anime-bot
-cd Anime-bot
+git clone https://github.com/Aldi-Ganz-Offc/YushinoMdV4
+cd YushinoMdV4
 npm install
 npm update
 ```
 
 ---------
-
-## RUN WITH REPLIT
-
-```bash
-Open replit [`Click Here`](https://replit.com/)
-Create repl
-Import from github
-Copy : https://github.com/Im-Dims/Anime-bot
-And Import From Github
-
-Cara install module :
-Pergi ke shell trus npm i tunggu
-lalu ketik yarn jika sudah
-tinggal scan oke
-```
----------
-
 
 ## FOR WINDOWS/VPS/RDP USER 💻
 
@@ -90,8 +73,8 @@ tinggal scan oke
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/Im-Dims/Anime-bot
-cd Anims-bot
+git https://github.com/Aldi-Ganz-Offc/YushinoMdV4
+cd YushinoMdV4
 npm install
 npm update
 ```
