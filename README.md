@@ -18,7 +18,7 @@ $ git clone https://github.com/Im-Dims/Anime-bot
 $ cd Anime-bot
 $ npm i 
 ```
-If error try using yarn instead of npm, see [here](https://github.com/Aldi-Ganz-Offc/YushinoMdV4#if-npm-install-failed--try--using-yarn-instead-of-npm)
+If error try using yarn instead of npm, see [here](https://github.com/Im-Dims/Anime-bot#if-npm-install-failed--try--using-yarn-instead-of-npm)
 ```bash
 $ node .
 ```
@@ -73,8 +73,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/Aldi-Ganz-Offc/YushinoMdV4
-cd YushinoMdV4
+git https://github.com/Im-Dims/Anime-bot
+cd Anime-bot
 npm install
 npm update
 ```
@@ -93,7 +93,7 @@ node .
 ### 📮 S&K
 1. Jangan diperjual belikan Script ini
 2. Sebelum pakai jangan lupa kasih star
-3. Follow Github Me Dan Jangan Lupa Bintangnya ehe:v
+3. Script Ini Masih Tahap Perkembangan Jika Error Maka Saya Akan Up Ke V2
 4. Jangan salah gunakan script ini!
 
 ---------
